@@ -25,7 +25,7 @@ void pause() {
 int main()
 {
 	int i = 1;
-	while (i < 30)
+	while (i < 31)
 	{
 	int x;
 	cout << "Press any positive three digit number ";
